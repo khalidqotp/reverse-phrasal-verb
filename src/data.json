@@ -1,0 +1,5000 @@
+[
+  {
+    "phrasal_verb": "get up",
+    "sense": "to leave your bed",
+    "keywords": [
+      "wake",
+      "rise",
+      "bed",
+      "morning"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I get up at six every morning."
+  },
+  {
+    "phrasal_verb": "get up",
+    "sense": "to stand from a seat",
+    "keywords": [
+      "stand",
+      "rise",
+      "seat",
+      "chair"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He got up to answer the door."
+  },
+  {
+    "phrasal_verb": "get on",
+    "sense": "to board a bus or train",
+    "keywords": [
+      "board",
+      "enter",
+      "bus",
+      "train",
+      "plane"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We got on the train at noon."
+  },
+  {
+    "phrasal_verb": "get on",
+    "sense": "to have a friendly relationship",
+    "keywords": [
+      "friendly",
+      "friends",
+      "harmony",
+      "relationship"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She gets on well with her neighbours."
+  },
+  {
+    "phrasal_verb": "get over",
+    "sense": "to recover from an illness or shock",
+    "keywords": [
+      "recover",
+      "illness",
+      "heal",
+      "overcome"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "It took her weeks to get over the flu."
+  },
+  {
+    "phrasal_verb": "get by",
+    "sense": "to manage with little money",
+    "keywords": [
+      "manage",
+      "survive",
+      "cope",
+      "money"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We get by on a small income."
+  },
+  {
+    "phrasal_verb": "get along",
+    "sense": "to have a friendly relationship",
+    "keywords": [
+      "friendly",
+      "friends",
+      "harmony",
+      "relationship"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The two brothers get along really well."
+  },
+  {
+    "phrasal_verb": "get away",
+    "sense": "to escape from a place",
+    "keywords": [
+      "escape",
+      "flee",
+      "leave",
+      "free"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The thief got away before the police arrived."
+  },
+  {
+    "phrasal_verb": "get away",
+    "sense": "to go on a short holiday",
+    "keywords": [
+      "holiday",
+      "vacation",
+      "break",
+      "trip"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We really need to get away this weekend."
+  },
+  {
+    "phrasal_verb": "get back",
+    "sense": "to return to a place",
+    "keywords": [
+      "return",
+      "home",
+      "arrive",
+      "come"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We got back late last night."
+  },
+  {
+    "phrasal_verb": "get back",
+    "sense": "to receive something again",
+    "keywords": [
+      "recover",
+      "regain",
+      "return",
+      "retrieve"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I finally got my money back."
+  },
+  {
+    "phrasal_verb": "get through",
+    "sense": "to survive a difficult period",
+    "keywords": [
+      "survive",
+      "endure",
+      "cope",
+      "hardship"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She got through the illness with her family's support."
+  },
+  {
+    "phrasal_verb": "get through",
+    "sense": "to reach someone by phone",
+    "keywords": [
+      "phone",
+      "reach",
+      "call",
+      "contact"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I couldn't get through to him all day."
+  },
+  {
+    "phrasal_verb": "take off",
+    "sense": "when a plane leaves the ground",
+    "keywords": [
+      "plane",
+      "depart",
+      "fly",
+      "airport"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The plane takes off at nine."
+  },
+  {
+    "phrasal_verb": "take off",
+    "sense": "to remove clothing",
+    "keywords": [
+      "remove",
+      "clothes",
+      "coat",
+      "shoes"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please take off your shoes."
+  },
+  {
+    "phrasal_verb": "take off",
+    "sense": "to become successful quickly",
+    "keywords": [
+      "success",
+      "popular",
+      "grow",
+      "rapid"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Her business really took off last year."
+  },
+  {
+    "phrasal_verb": "take up",
+    "sense": "to start a hobby or activity",
+    "keywords": [
+      "start",
+      "begin",
+      "hobby",
+      "sport"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He took up painting last year."
+  },
+  {
+    "phrasal_verb": "take up",
+    "sense": "to use time or space",
+    "keywords": [
+      "occupy",
+      "fill",
+      "space",
+      "time"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The sofa takes up too much space."
+  },
+  {
+    "phrasal_verb": "take over",
+    "sense": "to gain control of something",
+    "keywords": [
+      "control",
+      "seize",
+      "acquire",
+      "company"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "A larger firm took over the company."
+  },
+  {
+    "phrasal_verb": "take on",
+    "sense": "to accept work or responsibility",
+    "keywords": [
+      "accept",
+      "responsibility",
+      "job",
+      "undertake"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She took on extra work this month."
+  },
+  {
+    "phrasal_verb": "take on",
+    "sense": "to employ someone",
+    "keywords": [
+      "hire",
+      "employ",
+      "recruit",
+      "staff"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The firm took on ten new staff."
+  },
+  {
+    "phrasal_verb": "take out",
+    "sense": "to remove something from somewhere",
+    "keywords": [
+      "remove",
+      "extract",
+      "pocket",
+      "bag"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She took a pen out of her bag."
+  },
+  {
+    "phrasal_verb": "take out",
+    "sense": "to invite someone to go somewhere",
+    "keywords": [
+      "invite",
+      "date",
+      "dinner",
+      "treat"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He took her out for dinner."
+  },
+  {
+    "phrasal_verb": "take back",
+    "sense": "to return something to a shop",
+    "keywords": [
+      "return",
+      "shop",
+      "refund",
+      "store"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I took the shirt back to the shop."
+  },
+  {
+    "phrasal_verb": "take back",
+    "sense": "to withdraw something you said",
+    "keywords": [
+      "retract",
+      "withdraw",
+      "apologise",
+      "statement"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I take back what I said earlier."
+  },
+  {
+    "phrasal_verb": "take after",
+    "sense": "to resemble a family member",
+    "keywords": [
+      "resemble",
+      "parent",
+      "family",
+      "similar"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He takes after his father."
+  },
+  {
+    "phrasal_verb": "take apart",
+    "sense": "to separate something into pieces",
+    "keywords": [
+      "dismantle",
+      "separate",
+      "pieces",
+      "disassemble"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He took the clock apart to fix it."
+  },
+  {
+    "phrasal_verb": "look after",
+    "sense": "to take care of someone",
+    "keywords": [
+      "care",
+      "protect",
+      "mind",
+      "child"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Can you look after my cat this weekend?"
+  },
+  {
+    "phrasal_verb": "look for",
+    "sense": "to try to find something",
+    "keywords": [
+      "search",
+      "seek",
+      "find",
+      "hunt"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I'm looking for my keys."
+  },
+  {
+    "phrasal_verb": "look up",
+    "sense": "to search for information",
+    "keywords": [
+      "search",
+      "dictionary",
+      "find",
+      "check",
+      "word"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Look the word up in a dictionary."
+  },
+  {
+    "phrasal_verb": "look up",
+    "sense": "to become better",
+    "keywords": [
+      "improve",
+      "better",
+      "recover",
+      "brighten"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "Things are finally looking up at work."
+  },
+  {
+    "phrasal_verb": "look forward to",
+    "sense": "to feel excited about something coming",
+    "keywords": [
+      "anticipate",
+      "excited",
+      "await",
+      "expect"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I look forward to seeing you soon."
+  },
+  {
+    "phrasal_verb": "look into",
+    "sense": "to investigate something",
+    "keywords": [
+      "investigate",
+      "examine",
+      "research",
+      "study"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The police are looking into the matter."
+  },
+  {
+    "phrasal_verb": "look out",
+    "sense": "to be careful of danger",
+    "keywords": [
+      "careful",
+      "warning",
+      "danger",
+      "watch",
+      "beware"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Look out! There's a car coming!"
+  },
+  {
+    "phrasal_verb": "look down on",
+    "sense": "to think you are better than",
+    "keywords": [
+      "despise",
+      "superior",
+      "disdain",
+      "scorn"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Don't look down on people who work hard."
+  },
+  {
+    "phrasal_verb": "look up to",
+    "sense": "to admire and respect someone",
+    "keywords": [
+      "admire",
+      "respect",
+      "hero",
+      "esteem"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He looks up to his older sister."
+  },
+  {
+    "phrasal_verb": "put off",
+    "sense": "to delay doing something",
+    "keywords": [
+      "delay",
+      "postpone",
+      "later",
+      "avoid"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Don't put off your homework until tomorrow."
+  },
+  {
+    "phrasal_verb": "put off",
+    "sense": "to make someone dislike something",
+    "keywords": [
+      "discourage",
+      "repel",
+      "disgust",
+      "deter"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The smell put me off the food."
+  },
+  {
+    "phrasal_verb": "put on",
+    "sense": "to dress yourself in clothing",
+    "keywords": [
+      "wear",
+      "dress",
+      "clothes",
+      "coat"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Put on your coat; it's cold."
+  },
+  {
+    "phrasal_verb": "put on",
+    "sense": "to gain weight",
+    "keywords": [
+      "gain",
+      "weight",
+      "heavier",
+      "fat"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He put on five kilos last winter."
+  },
+  {
+    "phrasal_verb": "put up with",
+    "sense": "to tolerate something unpleasant",
+    "keywords": [
+      "tolerate",
+      "bear",
+      "endure",
+      "stand"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I can't put up with the noise."
+  },
+  {
+    "phrasal_verb": "put down",
+    "sense": "to place something on a surface",
+    "keywords": [
+      "place",
+      "lower",
+      "set",
+      "table"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Put the box down on the table."
+  },
+  {
+    "phrasal_verb": "put down",
+    "sense": "to criticise someone unfairly",
+    "keywords": [
+      "insult",
+      "criticise",
+      "belittle",
+      "humiliate"
+    ],
+    "register": "informal",
+    "separable": true,
+    "example": "She always puts her colleagues down."
+  },
+  {
+    "phrasal_verb": "put out",
+    "sense": "to stop a fire burning",
+    "keywords": [
+      "extinguish",
+      "fire",
+      "flame",
+      "cigarette"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Firefighters put out the fire quickly."
+  },
+  {
+    "phrasal_verb": "put away",
+    "sense": "to store something in its place",
+    "keywords": [
+      "store",
+      "tidy",
+      "clear",
+      "keep"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Put your toys away, please."
+  },
+  {
+    "phrasal_verb": "put together",
+    "sense": "to assemble or build something",
+    "keywords": [
+      "assemble",
+      "build",
+      "construct",
+      "make"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He put the shelf together in an hour."
+  },
+  {
+    "phrasal_verb": "put forward",
+    "sense": "to suggest an idea or plan",
+    "keywords": [
+      "suggest",
+      "propose",
+      "offer",
+      "present"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She put forward a new idea at the meeting."
+  },
+  {
+    "phrasal_verb": "come back",
+    "sense": "to return to a place",
+    "keywords": [
+      "return",
+      "again",
+      "home",
+      "arrive"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He came back from Spain last week."
+  },
+  {
+    "phrasal_verb": "come up",
+    "sense": "to be mentioned in conversation",
+    "keywords": [
+      "arise",
+      "mention",
+      "raise",
+      "topic"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The subject came up at dinner."
+  },
+  {
+    "phrasal_verb": "come up",
+    "sense": "to happen unexpectedly",
+    "keywords": [
+      "happen",
+      "arise",
+      "occur",
+      "sudden"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Something came up at work, so I'm late."
+  },
+  {
+    "phrasal_verb": "come across",
+    "sense": "to find something by chance",
+    "keywords": [
+      "find",
+      "discover",
+      "meet",
+      "chance"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I came across an old photo yesterday."
+  },
+  {
+    "phrasal_verb": "come out",
+    "sense": "to be published or released",
+    "keywords": [
+      "release",
+      "publish",
+      "appear",
+      "launch"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Her new book comes out next month."
+  },
+  {
+    "phrasal_verb": "come out",
+    "sense": "to appear from behind something",
+    "keywords": [
+      "appear",
+      "emerge",
+      "sun",
+      "visible"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The sun came out after lunch."
+  },
+  {
+    "phrasal_verb": "come on",
+    "sense": "to encourage someone to hurry",
+    "keywords": [
+      "hurry",
+      "encourage",
+      "urge",
+      "quickly"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "Come on, we'll be late!"
+  },
+  {
+    "phrasal_verb": "come down",
+    "sense": "to fall in price or level",
+    "keywords": [
+      "fall",
+      "decrease",
+      "drop",
+      "price"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Prices have come down recently."
+  },
+  {
+    "phrasal_verb": "come along",
+    "sense": "to go somewhere with someone",
+    "keywords": [
+      "accompany",
+      "join",
+      "follow",
+      "attend"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Why don't you come along with us?"
+  },
+  {
+    "phrasal_verb": "come over",
+    "sense": "to visit someone's home",
+    "keywords": [
+      "visit",
+      "drop",
+      "call",
+      "stay"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "Come over for dinner tonight."
+  },
+  {
+    "phrasal_verb": "go on",
+    "sense": "to continue doing something",
+    "keywords": [
+      "continue",
+      "carry",
+      "persist",
+      "keep"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Please go on with your story."
+  },
+  {
+    "phrasal_verb": "go on",
+    "sense": "to happen",
+    "keywords": [
+      "happen",
+      "occur",
+      "situation",
+      "event"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "What's going on here?"
+  },
+  {
+    "phrasal_verb": "go out",
+    "sense": "to leave home to socialise",
+    "keywords": [
+      "leave",
+      "socialise",
+      "evening",
+      "party"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We go out every Friday night."
+  },
+  {
+    "phrasal_verb": "go out",
+    "sense": "to stop burning or shining",
+    "keywords": [
+      "stop",
+      "fire",
+      "light",
+      "extinguished"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The fire went out during the night."
+  },
+  {
+    "phrasal_verb": "go back",
+    "sense": "to return to a place",
+    "keywords": [
+      "return",
+      "again",
+      "home",
+      "revisit"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I want to go back to Italy someday."
+  },
+  {
+    "phrasal_verb": "go ahead",
+    "sense": "to proceed with something",
+    "keywords": [
+      "proceed",
+      "start",
+      "permission",
+      "continue"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Go ahead and start without me."
+  },
+  {
+    "phrasal_verb": "go through",
+    "sense": "to experience something difficult",
+    "keywords": [
+      "experience",
+      "suffer",
+      "endure",
+      "hardship"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She went through a very hard time."
+  },
+  {
+    "phrasal_verb": "go through",
+    "sense": "to examine something carefully",
+    "keywords": [
+      "examine",
+      "check",
+      "search",
+      "review"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Let's go through the report together."
+  },
+  {
+    "phrasal_verb": "go off",
+    "sense": "to explode or ring loudly",
+    "keywords": [
+      "explode",
+      "alarm",
+      "ring",
+      "bomb"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The alarm went off at six."
+  },
+  {
+    "phrasal_verb": "go off",
+    "sense": "to become bad, like food",
+    "keywords": [
+      "rot",
+      "spoil",
+      "sour",
+      "bad"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The milk has gone off."
+  },
+  {
+    "phrasal_verb": "go over",
+    "sense": "to check or review something",
+    "keywords": [
+      "review",
+      "check",
+      "examine",
+      "revise"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Let's go over the plan again."
+  },
+  {
+    "phrasal_verb": "turn up",
+    "sense": "to arrive or appear",
+    "keywords": [
+      "arrive",
+      "appear",
+      "attend",
+      "show"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He turned up an hour late."
+  },
+  {
+    "phrasal_verb": "turn up",
+    "sense": "to increase volume or heat",
+    "keywords": [
+      "increase",
+      "volume",
+      "louder",
+      "heat"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Turn the music up, please."
+  },
+  {
+    "phrasal_verb": "turn down",
+    "sense": "to refuse an offer",
+    "keywords": [
+      "refuse",
+      "reject",
+      "decline",
+      "offer"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She turned down the job offer."
+  },
+  {
+    "phrasal_verb": "turn down",
+    "sense": "to reduce volume or heat",
+    "keywords": [
+      "reduce",
+      "volume",
+      "quieter",
+      "lower"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please turn the TV down."
+  },
+  {
+    "phrasal_verb": "turn off",
+    "sense": "to stop a machine working",
+    "keywords": [
+      "switch",
+      "stop",
+      "light",
+      "device"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please turn off the lights."
+  },
+  {
+    "phrasal_verb": "turn on",
+    "sense": "to start a machine working",
+    "keywords": [
+      "switch",
+      "start",
+      "light",
+      "activate"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Can you turn on the heating?"
+  },
+  {
+    "phrasal_verb": "turn out",
+    "sense": "to end in a certain way",
+    "keywords": [
+      "result",
+      "end",
+      "prove",
+      "finally"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Everything turned out well in the end."
+  },
+  {
+    "phrasal_verb": "turn out",
+    "sense": "to attend an event",
+    "keywords": [
+      "attend",
+      "gather",
+      "crowd",
+      "vote"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Thousands of people turned out to vote."
+  },
+  {
+    "phrasal_verb": "turn into",
+    "sense": "to change into something else",
+    "keywords": [
+      "change",
+      "become",
+      "transform",
+      "convert"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The caterpillar turned into a butterfly."
+  },
+  {
+    "phrasal_verb": "turn around",
+    "sense": "to face the opposite direction",
+    "keywords": [
+      "reverse",
+      "rotate",
+      "face",
+      "direction"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She turned around and smiled at me."
+  },
+  {
+    "phrasal_verb": "turn around",
+    "sense": "to make a failing business successful",
+    "keywords": [
+      "improve",
+      "recover",
+      "rescue",
+      "business"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The new manager turned the company around."
+  },
+  {
+    "phrasal_verb": "give up",
+    "sense": "to stop trying",
+    "keywords": [
+      "quit",
+      "stop",
+      "surrender",
+      "abandon"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Never give up on your dreams."
+  },
+  {
+    "phrasal_verb": "give up",
+    "sense": "to stop a habit",
+    "keywords": [
+      "quit",
+      "stop",
+      "habit",
+      "smoking"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He gave up smoking last year."
+  },
+  {
+    "phrasal_verb": "give in",
+    "sense": "to accept defeat or yield",
+    "keywords": [
+      "surrender",
+      "yield",
+      "admit",
+      "defeat"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The children begged until she finally gave in."
+  },
+  {
+    "phrasal_verb": "give away",
+    "sense": "to give something for free",
+    "keywords": [
+      "free",
+      "donate",
+      "gift",
+      "charity"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "They gave away all their old clothes."
+  },
+  {
+    "phrasal_verb": "give away",
+    "sense": "to reveal a secret",
+    "keywords": [
+      "reveal",
+      "expose",
+      "betray",
+      "secret"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "His smile gave the surprise away."
+  },
+  {
+    "phrasal_verb": "give back",
+    "sense": "to return something to its owner",
+    "keywords": [
+      "return",
+      "restore",
+      "owner",
+      "repay"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please give me my book back."
+  },
+  {
+    "phrasal_verb": "give out",
+    "sense": "to distribute things to people",
+    "keywords": [
+      "distribute",
+      "hand",
+      "share",
+      "deliver"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The teacher gave out the exam papers."
+  },
+  {
+    "phrasal_verb": "give out",
+    "sense": "to stop working",
+    "keywords": [
+      "fail",
+      "stop",
+      "break",
+      "exhaust"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "His legs gave out near the top."
+  },
+  {
+    "phrasal_verb": "give off",
+    "sense": "to send out heat, light or smell",
+    "keywords": [
+      "emit",
+      "smell",
+      "release",
+      "produce"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The flowers give off a lovely scent."
+  },
+  {
+    "phrasal_verb": "make up",
+    "sense": "to invent a story or excuse",
+    "keywords": [
+      "invent",
+      "create",
+      "lie",
+      "fabricate",
+      "story"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He made up an excuse for being late."
+  },
+  {
+    "phrasal_verb": "make up",
+    "sense": "to become friends again after arguing",
+    "keywords": [
+      "reconcile",
+      "forgive",
+      "friends",
+      "argument"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "They argued but made up the next day."
+  },
+  {
+    "phrasal_verb": "make up",
+    "sense": "to put cosmetics on your face",
+    "keywords": [
+      "cosmetics",
+      "face",
+      "beauty",
+      "lipstick"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She made herself up before the party."
+  },
+  {
+    "phrasal_verb": "make out",
+    "sense": "to see or hear with difficulty",
+    "keywords": [
+      "see",
+      "hear",
+      "understand",
+      "distinguish"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I could barely make out his words."
+  },
+  {
+    "phrasal_verb": "make out",
+    "sense": "to claim something is true",
+    "keywords": [
+      "claim",
+      "pretend",
+      "suggest",
+      "imply"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He made out that he was ill."
+  },
+  {
+    "phrasal_verb": "make for",
+    "sense": "to move towards a place",
+    "keywords": [
+      "head",
+      "move",
+      "direction",
+      "towards"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We made for the nearest exit."
+  },
+  {
+    "phrasal_verb": "make up for",
+    "sense": "to compensate for something bad",
+    "keywords": [
+      "compensate",
+      "repay",
+      "balance",
+      "mistake"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I'll make up for missing your birthday."
+  },
+  {
+    "phrasal_verb": "make off",
+    "sense": "to leave quickly after a crime",
+    "keywords": [
+      "flee",
+      "escape",
+      "run",
+      "steal"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "The thieves made off with the jewellery."
+  },
+  {
+    "phrasal_verb": "set up",
+    "sense": "to start a business or organisation",
+    "keywords": [
+      "start",
+      "establish",
+      "found",
+      "create"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She set up her own company."
+  },
+  {
+    "phrasal_verb": "set up",
+    "sense": "to prepare equipment for use",
+    "keywords": [
+      "prepare",
+      "arrange",
+      "install",
+      "assemble"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Can you set up the projector?"
+  },
+  {
+    "phrasal_verb": "set off",
+    "sense": "to begin a journey",
+    "keywords": [
+      "start",
+      "leave",
+      "depart",
+      "journey"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We set off at dawn."
+  },
+  {
+    "phrasal_verb": "set off",
+    "sense": "to make something explode or ring",
+    "keywords": [
+      "trigger",
+      "explode",
+      "activate",
+      "alarm"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Burnt toast set off the fire alarm."
+  },
+  {
+    "phrasal_verb": "set out",
+    "sense": "to begin a journey",
+    "keywords": [
+      "start",
+      "leave",
+      "depart",
+      "travel"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "They set out early for the coast."
+  },
+  {
+    "phrasal_verb": "set out",
+    "sense": "to explain or present clearly",
+    "keywords": [
+      "explain",
+      "present",
+      "describe",
+      "list"
+    ],
+    "register": "formal",
+    "separable": true,
+    "example": "The report sets out our main goals."
+  },
+  {
+    "phrasal_verb": "set aside",
+    "sense": "to save something for later",
+    "keywords": [
+      "save",
+      "reserve",
+      "keep",
+      "spare"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I set aside some money each month."
+  },
+  {
+    "phrasal_verb": "set back",
+    "sense": "to delay progress",
+    "keywords": [
+      "delay",
+      "slow",
+      "hinder",
+      "postpone"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The storm set the project back a week."
+  },
+  {
+    "phrasal_verb": "set in",
+    "sense": "to begin and seem likely to continue",
+    "keywords": [
+      "begin",
+      "start",
+      "arrive",
+      "settle"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Winter has set in early this year."
+  },
+  {
+    "phrasal_verb": "pick up",
+    "sense": "to lift something from a surface",
+    "keywords": [
+      "lift",
+      "grab",
+      "raise",
+      "take"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Pick up your clothes from the floor."
+  },
+  {
+    "phrasal_verb": "pick up",
+    "sense": "to collect someone or something",
+    "keywords": [
+      "collect",
+      "fetch",
+      "get",
+      "car"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I'll pick you up at eight."
+  },
+  {
+    "phrasal_verb": "pick up",
+    "sense": "to learn something without effort",
+    "keywords": [
+      "learn",
+      "acquire",
+      "master",
+      "language"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She picked up Spanish while living abroad."
+  },
+  {
+    "phrasal_verb": "pick out",
+    "sense": "to choose someone or something",
+    "keywords": [
+      "choose",
+      "select",
+      "identify",
+      "decide"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She picked out a red dress."
+  },
+  {
+    "phrasal_verb": "pick on",
+    "sense": "to treat someone unfairly and repeatedly",
+    "keywords": [
+      "bully",
+      "tease",
+      "target",
+      "harass"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The older boys picked on him."
+  },
+  {
+    "phrasal_verb": "break down",
+    "sense": "to stop working, as a machine",
+    "keywords": [
+      "fail",
+      "stop",
+      "car",
+      "engine"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Our car broke down on the motorway."
+  },
+  {
+    "phrasal_verb": "break down",
+    "sense": "to start crying uncontrollably",
+    "keywords": [
+      "cry",
+      "collapse",
+      "weep",
+      "emotion"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She broke down when she heard the news."
+  },
+  {
+    "phrasal_verb": "break down",
+    "sense": "to divide into smaller parts",
+    "keywords": [
+      "divide",
+      "analyse",
+      "split",
+      "separate"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Let's break the costs down by month."
+  },
+  {
+    "phrasal_verb": "break up",
+    "sense": "to end a romantic relationship",
+    "keywords": [
+      "split",
+      "end",
+      "relationship",
+      "separate"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "They broke up after two years."
+  },
+  {
+    "phrasal_verb": "break up",
+    "sense": "to begin school holidays",
+    "keywords": [
+      "holidays",
+      "school",
+      "vacation",
+      "finish"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Schools break up in July."
+  },
+  {
+    "phrasal_verb": "break up",
+    "sense": "to separate into smaller pieces",
+    "keywords": [
+      "divide",
+      "split",
+      "fragment",
+      "pieces"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Police broke up the crowd."
+  },
+  {
+    "phrasal_verb": "break in",
+    "sense": "to enter a building illegally",
+    "keywords": [
+      "burglar",
+      "enter",
+      "steal",
+      "force"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Thieves broke in through a window."
+  },
+  {
+    "phrasal_verb": "break in",
+    "sense": "to make new shoes comfortable",
+    "keywords": [
+      "shoes",
+      "comfortable",
+      "wear",
+      "soften"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I need to break these boots in."
+  },
+  {
+    "phrasal_verb": "break out",
+    "sense": "to start suddenly, as war or fire",
+    "keywords": [
+      "start",
+      "begin",
+      "erupt",
+      "war"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "A fire broke out in the kitchen."
+  },
+  {
+    "phrasal_verb": "break out",
+    "sense": "to escape from prison",
+    "keywords": [
+      "escape",
+      "prison",
+      "flee",
+      "jail"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Two prisoners broke out last night."
+  },
+  {
+    "phrasal_verb": "break off",
+    "sense": "to stop speaking suddenly",
+    "keywords": [
+      "stop",
+      "pause",
+      "interrupt",
+      "halt"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He broke off in the middle of a sentence."
+  },
+  {
+    "phrasal_verb": "break through",
+    "sense": "to force a way through something",
+    "keywords": [
+      "force",
+      "pass",
+      "barrier",
+      "penetrate"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The sun broke through the clouds."
+  },
+  {
+    "phrasal_verb": "bring up",
+    "sense": "to raise a child",
+    "keywords": [
+      "raise",
+      "parent",
+      "child",
+      "rear"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She was brought up in a small village."
+  },
+  {
+    "phrasal_verb": "bring up",
+    "sense": "to mention a subject",
+    "keywords": [
+      "mention",
+      "raise",
+      "topic",
+      "discuss"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Don't bring up money at dinner."
+  },
+  {
+    "phrasal_verb": "bring about",
+    "sense": "to cause something to happen",
+    "keywords": [
+      "cause",
+      "produce",
+      "create",
+      "result"
+    ],
+    "register": "formal",
+    "separable": true,
+    "example": "The new law brought about major changes."
+  },
+  {
+    "phrasal_verb": "bring back",
+    "sense": "to return something",
+    "keywords": [
+      "return",
+      "carry",
+      "restore",
+      "fetch"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please bring my book back tomorrow."
+  },
+  {
+    "phrasal_verb": "bring back",
+    "sense": "to make you remember something",
+    "keywords": [
+      "remind",
+      "memory",
+      "recall",
+      "nostalgia"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "That song brings back happy memories."
+  },
+  {
+    "phrasal_verb": "bring in",
+    "sense": "to introduce a new law",
+    "keywords": [
+      "introduce",
+      "law",
+      "start",
+      "establish"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The government brought in new rules."
+  },
+  {
+    "phrasal_verb": "bring in",
+    "sense": "to earn money",
+    "keywords": [
+      "earn",
+      "income",
+      "profit",
+      "make"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The shop brings in good money."
+  },
+  {
+    "phrasal_verb": "bring down",
+    "sense": "to make something fall or lower",
+    "keywords": [
+      "reduce",
+      "lower",
+      "topple",
+      "defeat"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The scandal brought down the government."
+  },
+  {
+    "phrasal_verb": "bring out",
+    "sense": "to release a new product",
+    "keywords": [
+      "release",
+      "launch",
+      "publish",
+      "produce"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The company brought out a new phone."
+  },
+  {
+    "phrasal_verb": "bring together",
+    "sense": "to unite people",
+    "keywords": [
+      "unite",
+      "join",
+      "gather",
+      "connect"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The festival brings the community together."
+  },
+  {
+    "phrasal_verb": "call off",
+    "sense": "to cancel something",
+    "keywords": [
+      "cancel",
+      "stop",
+      "abandon",
+      "event"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "They called off the match because of rain."
+  },
+  {
+    "phrasal_verb": "call back",
+    "sense": "to return a phone call",
+    "keywords": [
+      "phone",
+      "return",
+      "ring",
+      "telephone"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I'll call you back in ten minutes."
+  },
+  {
+    "phrasal_verb": "call on",
+    "sense": "to visit someone briefly",
+    "keywords": [
+      "visit",
+      "drop",
+      "see",
+      "stop"
+    ],
+    "register": "formal",
+    "separable": false,
+    "example": "We called on our grandparents on Sunday."
+  },
+  {
+    "phrasal_verb": "call on",
+    "sense": "to formally ask someone to do something",
+    "keywords": [
+      "ask",
+      "request",
+      "urge",
+      "appeal"
+    ],
+    "register": "formal",
+    "separable": false,
+    "example": "The teacher called on me to answer."
+  },
+  {
+    "phrasal_verb": "call for",
+    "sense": "to require or demand",
+    "keywords": [
+      "require",
+      "demand",
+      "need",
+      "deserve"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "This situation calls for quick action."
+  },
+  {
+    "phrasal_verb": "call out",
+    "sense": "to shout loudly",
+    "keywords": [
+      "shout",
+      "yell",
+      "cry",
+      "loud"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She called out his name."
+  },
+  {
+    "phrasal_verb": "call up",
+    "sense": "to telephone someone",
+    "keywords": [
+      "phone",
+      "ring",
+      "telephone",
+      "contact"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I called him up last night."
+  },
+  {
+    "phrasal_verb": "carry out",
+    "sense": "to perform a task or plan",
+    "keywords": [
+      "perform",
+      "complete",
+      "execute",
+      "task",
+      "plan"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The team carried out the experiment carefully."
+  },
+  {
+    "phrasal_verb": "carry on",
+    "sense": "to continue doing something",
+    "keywords": [
+      "continue",
+      "persist",
+      "keep",
+      "proceed"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Please carry on with your work."
+  },
+  {
+    "phrasal_verb": "carry off",
+    "sense": "to succeed in doing something difficult",
+    "keywords": [
+      "succeed",
+      "achieve",
+      "manage",
+      "accomplish"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She carried off the presentation brilliantly."
+  },
+  {
+    "phrasal_verb": "cut off",
+    "sense": "to remove by cutting",
+    "keywords": [
+      "remove",
+      "chop",
+      "sever",
+      "trim"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He cut off a piece of cheese."
+  },
+  {
+    "phrasal_verb": "cut off",
+    "sense": "to stop the supply of something",
+    "keywords": [
+      "stop",
+      "disconnect",
+      "block",
+      "supply"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "They cut off our electricity last week."
+  },
+  {
+    "phrasal_verb": "cut off",
+    "sense": "to end a phone call suddenly",
+    "keywords": [
+      "disconnect",
+      "interrupt",
+      "phone",
+      "line"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "We were cut off in the middle of talking."
+  },
+  {
+    "phrasal_verb": "cut down",
+    "sense": "to reduce the amount of something",
+    "keywords": [
+      "reduce",
+      "lessen",
+      "decrease",
+      "limit"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I'm trying to cut down on sugar."
+  },
+  {
+    "phrasal_verb": "cut down",
+    "sense": "to make a tree fall",
+    "keywords": [
+      "chop",
+      "tree",
+      "fell",
+      "axe"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "They cut down the old oak tree."
+  },
+  {
+    "phrasal_verb": "cut back",
+    "sense": "to reduce spending",
+    "keywords": [
+      "reduce",
+      "save",
+      "spending",
+      "budget"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The company had to cut back on costs."
+  },
+  {
+    "phrasal_verb": "cut out",
+    "sense": "to remove using scissors",
+    "keywords": [
+      "remove",
+      "scissors",
+      "shape",
+      "paper"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She cut out the article from the newspaper."
+  },
+  {
+    "phrasal_verb": "cut out",
+    "sense": "to stop eating or doing something",
+    "keywords": [
+      "stop",
+      "quit",
+      "avoid",
+      "diet"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The doctor told him to cut out salt."
+  },
+  {
+    "phrasal_verb": "cut in",
+    "sense": "to interrupt someone who is speaking",
+    "keywords": [
+      "interrupt",
+      "speak",
+      "conversation",
+      "butt"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He kept cutting in while I was talking."
+  },
+  {
+    "phrasal_verb": "cut up",
+    "sense": "to cut into small pieces",
+    "keywords": [
+      "chop",
+      "slice",
+      "divide",
+      "pieces"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Cut up the vegetables for the soup."
+  },
+  {
+    "phrasal_verb": "run out",
+    "sense": "to have none left",
+    "keywords": [
+      "finish",
+      "exhaust",
+      "supply",
+      "empty"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We ran out of milk this morning."
+  },
+  {
+    "phrasal_verb": "run away",
+    "sense": "to escape from a place",
+    "keywords": [
+      "flee",
+      "escape",
+      "leave",
+      "home"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The boy ran away from home."
+  },
+  {
+    "phrasal_verb": "run into",
+    "sense": "to meet someone by chance",
+    "keywords": [
+      "meet",
+      "encounter",
+      "chance",
+      "bump"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I ran into an old friend yesterday."
+  },
+  {
+    "phrasal_verb": "run into",
+    "sense": "to hit something with a vehicle",
+    "keywords": [
+      "hit",
+      "crash",
+      "collide",
+      "car"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The car ran into a wall."
+  },
+  {
+    "phrasal_verb": "run over",
+    "sense": "to hit someone with a vehicle",
+    "keywords": [
+      "hit",
+      "knock",
+      "car",
+      "injure"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "A bus nearly ran him over."
+  },
+  {
+    "phrasal_verb": "run down",
+    "sense": "to criticise someone unfairly",
+    "keywords": [
+      "criticise",
+      "insult",
+      "belittle",
+      "attack"
+    ],
+    "register": "informal",
+    "separable": true,
+    "example": "Stop running down your own work."
+  },
+  {
+    "phrasal_verb": "run down",
+    "sense": "to lose power or energy",
+    "keywords": [
+      "weaken",
+      "battery",
+      "drain",
+      "empty"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "My phone battery ran down quickly."
+  },
+  {
+    "phrasal_verb": "run up",
+    "sense": "to let a debt grow",
+    "keywords": [
+      "accumulate",
+      "debt",
+      "bill",
+      "increase"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He ran up a huge phone bill."
+  },
+  {
+    "phrasal_verb": "run through",
+    "sense": "to rehearse or review quickly",
+    "keywords": [
+      "rehearse",
+      "practise",
+      "review",
+      "repeat"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Let's run through the speech once more."
+  },
+  {
+    "phrasal_verb": "run for",
+    "sense": "to be a candidate in an election",
+    "keywords": [
+      "election",
+      "candidate",
+      "contest",
+      "stand"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She is running for mayor next year."
+  },
+  {
+    "phrasal_verb": "hold on",
+    "sense": "to wait for a short time",
+    "keywords": [
+      "wait",
+      "pause",
+      "moment",
+      "phone"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "Hold on, I'll get my coat."
+  },
+  {
+    "phrasal_verb": "hold on",
+    "sense": "to grip something firmly",
+    "keywords": [
+      "grip",
+      "grasp",
+      "cling",
+      "tight"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Hold on tight to the rope."
+  },
+  {
+    "phrasal_verb": "hold up",
+    "sense": "to delay someone or something",
+    "keywords": [
+      "delay",
+      "slow",
+      "traffic",
+      "block"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "An accident held up the traffic."
+  },
+  {
+    "phrasal_verb": "hold up",
+    "sense": "to rob someone using a weapon",
+    "keywords": [
+      "rob",
+      "steal",
+      "threaten",
+      "bank"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Two men held up the bank."
+  },
+  {
+    "phrasal_verb": "hold back",
+    "sense": "to stop someone from moving forward",
+    "keywords": [
+      "restrain",
+      "stop",
+      "prevent",
+      "control"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Police held back the crowd."
+  },
+  {
+    "phrasal_verb": "hold back",
+    "sense": "to hide or control a feeling",
+    "keywords": [
+      "suppress",
+      "control",
+      "tears",
+      "emotion"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She couldn't hold back her tears."
+  },
+  {
+    "phrasal_verb": "hold off",
+    "sense": "to delay doing something",
+    "keywords": [
+      "wait",
+      "delay",
+      "postpone",
+      "defer"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We're holding off on the decision until Monday."
+  },
+  {
+    "phrasal_verb": "hold down",
+    "sense": "to manage to keep a job",
+    "keywords": [
+      "keep",
+      "maintain",
+      "job",
+      "manage"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He can't hold down a steady job."
+  },
+  {
+    "phrasal_verb": "hold against",
+    "sense": "to blame someone for something",
+    "keywords": [
+      "blame",
+      "resent",
+      "grudge",
+      "forgive"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I don't hold your mistake against you."
+  },
+  {
+    "phrasal_verb": "keep up",
+    "sense": "to continue at the same level",
+    "keywords": [
+      "continue",
+      "maintain",
+      "sustain",
+      "standard"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Keep up the good work!"
+  },
+  {
+    "phrasal_verb": "keep up",
+    "sense": "to move at the same speed",
+    "keywords": [
+      "pace",
+      "follow",
+      "speed",
+      "match"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I can't keep up with you; you walk too fast."
+  },
+  {
+    "phrasal_verb": "keep on",
+    "sense": "to continue doing something",
+    "keywords": [
+      "continue",
+      "persist",
+      "repeat",
+      "persevere"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She kept on talking during the film."
+  },
+  {
+    "phrasal_verb": "keep out",
+    "sense": "to prevent someone from entering",
+    "keywords": [
+      "block",
+      "prevent",
+      "ban",
+      "enter"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The sign says to keep out."
+  },
+  {
+    "phrasal_verb": "keep away",
+    "sense": "to avoid going near something",
+    "keywords": [
+      "avoid",
+      "distance",
+      "stay",
+      "danger"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Keep away from the edge of the cliff."
+  },
+  {
+    "phrasal_verb": "keep to",
+    "sense": "to follow a rule or plan",
+    "keywords": [
+      "obey",
+      "follow",
+      "stick",
+      "rule"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Please keep to the speed limit."
+  },
+  {
+    "phrasal_verb": "keep from",
+    "sense": "to prevent someone doing something",
+    "keywords": [
+      "prevent",
+      "stop",
+      "hinder",
+      "avoid"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I couldn't keep myself from laughing."
+  },
+  {
+    "phrasal_verb": "work out",
+    "sense": "to exercise to stay fit",
+    "keywords": [
+      "exercise",
+      "gym",
+      "train",
+      "fitness"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He works out at the gym every morning."
+  },
+  {
+    "phrasal_verb": "work out",
+    "sense": "to solve or calculate something",
+    "keywords": [
+      "solve",
+      "calculate",
+      "figure",
+      "answer"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I can't work out this maths problem."
+  },
+  {
+    "phrasal_verb": "work out",
+    "sense": "to end in a good way",
+    "keywords": [
+      "succeed",
+      "happen",
+      "result",
+      "develop"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Don't worry, everything will work out fine."
+  },
+  {
+    "phrasal_verb": "work on",
+    "sense": "to spend time improving something",
+    "keywords": [
+      "improve",
+      "develop",
+      "project",
+      "effort"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She is working on a new book."
+  },
+  {
+    "phrasal_verb": "work off",
+    "sense": "to get rid of something by activity",
+    "keywords": [
+      "burn",
+      "exercise",
+      "calories",
+      "lose"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He went running to work off his anger."
+  },
+  {
+    "phrasal_verb": "sit down",
+    "sense": "to take a seat",
+    "keywords": [
+      "seat",
+      "rest",
+      "chair",
+      "settle"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Please sit down and make yourself comfortable."
+  },
+  {
+    "phrasal_verb": "sit up",
+    "sense": "to move to an upright position",
+    "keywords": [
+      "upright",
+      "straighten",
+      "posture",
+      "bed"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He sat up when the doctor came in."
+  },
+  {
+    "phrasal_verb": "sit up",
+    "sense": "to stay awake late at night",
+    "keywords": [
+      "awake",
+      "late",
+      "night",
+      "wait"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She sat up waiting for her son."
+  },
+  {
+    "phrasal_verb": "sit back",
+    "sense": "to relax and let things happen",
+    "keywords": [
+      "relax",
+      "rest",
+      "passive",
+      "comfortable"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Sit back and enjoy the show."
+  },
+  {
+    "phrasal_verb": "sit around",
+    "sense": "to spend time doing nothing useful",
+    "keywords": [
+      "idle",
+      "lazy",
+      "waste",
+      "nothing"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "They just sit around all weekend."
+  },
+  {
+    "phrasal_verb": "move on",
+    "sense": "to go to the next topic or stage",
+    "keywords": [
+      "proceed",
+      "progress",
+      "continue",
+      "next"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Let's move on to the next question."
+  },
+  {
+    "phrasal_verb": "move on",
+    "sense": "to stop dwelling on the past",
+    "keywords": [
+      "forget",
+      "recover",
+      "past",
+      "future"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "It's time to move on after the breakup."
+  },
+  {
+    "phrasal_verb": "move in",
+    "sense": "to start living in a new home",
+    "keywords": [
+      "home",
+      "house",
+      "settle",
+      "resident"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We move in next Saturday."
+  },
+  {
+    "phrasal_verb": "move out",
+    "sense": "to leave your home permanently",
+    "keywords": [
+      "leave",
+      "home",
+      "vacate",
+      "depart"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He moved out when he turned eighteen."
+  },
+  {
+    "phrasal_verb": "move over",
+    "sense": "to shift to make space",
+    "keywords": [
+      "shift",
+      "space",
+      "room",
+      "seat"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Could you move over a little?"
+  },
+  {
+    "phrasal_verb": "hang up",
+    "sense": "to end a phone call",
+    "keywords": [
+      "phone",
+      "end",
+      "call",
+      "disconnect"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She hung up before I could reply."
+  },
+  {
+    "phrasal_verb": "hang up",
+    "sense": "to put something on a hook",
+    "keywords": [
+      "clothes",
+      "hook",
+      "coat",
+      "suspend"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Hang up your coat by the door."
+  },
+  {
+    "phrasal_verb": "hang out",
+    "sense": "to spend time relaxing with friends",
+    "keywords": [
+      "relax",
+      "friends",
+      "socialise",
+      "chill"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "We usually hang out at the mall."
+  },
+  {
+    "phrasal_verb": "hang on",
+    "sense": "to wait for a short time",
+    "keywords": [
+      "wait",
+      "moment",
+      "pause",
+      "minute"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "Hang on, I'll be right back."
+  },
+  {
+    "phrasal_verb": "hang on",
+    "sense": "to hold something tightly",
+    "keywords": [
+      "grip",
+      "grasp",
+      "cling",
+      "tight"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Hang on to the rail when the bus moves."
+  },
+  {
+    "phrasal_verb": "hang around",
+    "sense": "to stay somewhere with nothing to do",
+    "keywords": [
+      "wait",
+      "linger",
+      "loiter",
+      "stay"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "Teenagers were hanging around outside the shop."
+  },
+  {
+    "phrasal_verb": "let down",
+    "sense": "to disappoint someone",
+    "keywords": [
+      "disappoint",
+      "fail",
+      "betray",
+      "trust"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I promised to help and I don't want to let you down."
+  },
+  {
+    "phrasal_verb": "let in",
+    "sense": "to allow someone to enter",
+    "keywords": [
+      "admit",
+      "enter",
+      "allow",
+      "door"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She opened the door and let him in."
+  },
+  {
+    "phrasal_verb": "let out",
+    "sense": "to allow someone or something to leave",
+    "keywords": [
+      "release",
+      "free",
+      "escape",
+      "allow"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Can you let the dog out?"
+  },
+  {
+    "phrasal_verb": "let off",
+    "sense": "to not punish someone severely",
+    "keywords": [
+      "forgive",
+      "punish",
+      "excuse",
+      "spare"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The police let him off with a warning."
+  },
+  {
+    "phrasal_verb": "let on",
+    "sense": "to reveal a secret",
+    "keywords": [
+      "reveal",
+      "tell",
+      "secret",
+      "admit"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "She never let on that she knew."
+  },
+  {
+    "phrasal_verb": "let go",
+    "sense": "to stop holding something",
+    "keywords": [
+      "release",
+      "drop",
+      "free",
+      "grip"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Don't let go of my hand."
+  },
+  {
+    "phrasal_verb": "let up",
+    "sense": "to become less intense",
+    "keywords": [
+      "ease",
+      "lessen",
+      "stop",
+      "rain"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The rain didn't let up all afternoon."
+  },
+  {
+    "phrasal_verb": "find out",
+    "sense": "to discover a fact or information",
+    "keywords": [
+      "discover",
+      "learn",
+      "realise",
+      "information"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I'll find out what time the train leaves."
+  },
+  {
+    "phrasal_verb": "fill in",
+    "sense": "to complete a form",
+    "keywords": [
+      "complete",
+      "form",
+      "write",
+      "answer"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please fill in this form."
+  },
+  {
+    "phrasal_verb": "fill in",
+    "sense": "to do someone else's job temporarily",
+    "keywords": [
+      "substitute",
+      "replace",
+      "cover",
+      "temporary"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I'm filling in for a sick colleague."
+  },
+  {
+    "phrasal_verb": "fill in",
+    "sense": "to give someone the latest information",
+    "keywords": [
+      "inform",
+      "update",
+      "tell",
+      "details"
+    ],
+    "register": "informal",
+    "separable": true,
+    "example": "Fill me in on what I missed."
+  },
+  {
+    "phrasal_verb": "fill up",
+    "sense": "to make something completely full",
+    "keywords": [
+      "full",
+      "tank",
+      "refill",
+      "load"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Let's fill up the car before the trip."
+  },
+  {
+    "phrasal_verb": "fill out",
+    "sense": "to complete a form",
+    "keywords": [
+      "complete",
+      "form",
+      "write",
+      "document"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "You need to fill out an application."
+  },
+  {
+    "phrasal_verb": "figure out",
+    "sense": "to understand or solve something",
+    "keywords": [
+      "solve",
+      "understand",
+      "work",
+      "discover",
+      "puzzle"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I can't figure out how this works."
+  },
+  {
+    "phrasal_verb": "sort out",
+    "sense": "to organise or tidy something",
+    "keywords": [
+      "organise",
+      "tidy",
+      "arrange",
+      "order"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I need to sort out my desk."
+  },
+  {
+    "phrasal_verb": "sort out",
+    "sense": "to solve a problem",
+    "keywords": [
+      "solve",
+      "fix",
+      "resolve",
+      "deal"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "We'll sort out the problem tomorrow."
+  },
+  {
+    "phrasal_verb": "hand in",
+    "sense": "to give work to a teacher or boss",
+    "keywords": [
+      "submit",
+      "give",
+      "homework",
+      "deliver"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Hand in your essays by Friday."
+  },
+  {
+    "phrasal_verb": "hand out",
+    "sense": "to give things to several people",
+    "keywords": [
+      "distribute",
+      "give",
+      "share",
+      "deliver"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He handed out leaflets in the street."
+  },
+  {
+    "phrasal_verb": "hand over",
+    "sense": "to give something to another person",
+    "keywords": [
+      "give",
+      "transfer",
+      "surrender",
+      "pass"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Hand over the keys, please."
+  },
+  {
+    "phrasal_verb": "hand down",
+    "sense": "to pass something to younger people",
+    "keywords": [
+      "pass",
+      "inherit",
+      "generation",
+      "family"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The ring was handed down from her grandmother."
+  },
+  {
+    "phrasal_verb": "hand back",
+    "sense": "to return something to its owner",
+    "keywords": [
+      "return",
+      "give",
+      "restore",
+      "teacher"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The teacher handed back our tests."
+  },
+  {
+    "phrasal_verb": "back up",
+    "sense": "to support someone's statement or action",
+    "keywords": [
+      "support",
+      "confirm",
+      "defend",
+      "help"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "My friend backed me up in the meeting."
+  },
+  {
+    "phrasal_verb": "back up",
+    "sense": "to make a copy of computer data",
+    "keywords": [
+      "copy",
+      "save",
+      "computer",
+      "files"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Remember to back up your files."
+  },
+  {
+    "phrasal_verb": "back up",
+    "sense": "to move a vehicle backwards",
+    "keywords": [
+      "reverse",
+      "vehicle",
+      "car",
+      "move"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Back the truck up a little."
+  },
+  {
+    "phrasal_verb": "back down",
+    "sense": "to withdraw a demand or opinion",
+    "keywords": [
+      "retreat",
+      "surrender",
+      "yield",
+      "withdraw"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He refused to back down in the argument."
+  },
+  {
+    "phrasal_verb": "back out",
+    "sense": "to decide not to do something agreed",
+    "keywords": [
+      "withdraw",
+      "cancel",
+      "promise",
+      "quit"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She backed out of the deal at the last minute."
+  },
+  {
+    "phrasal_verb": "back off",
+    "sense": "to move away or stop interfering",
+    "keywords": [
+      "retreat",
+      "withdraw",
+      "stop",
+      "distance"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "Just back off and let me think."
+  },
+  {
+    "phrasal_verb": "write down",
+    "sense": "to record something on paper",
+    "keywords": [
+      "record",
+      "note",
+      "paper",
+      "pen"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Write down my phone number before you forget."
+  },
+  {
+    "phrasal_verb": "write up",
+    "sense": "to produce a full written report",
+    "keywords": [
+      "report",
+      "compose",
+      "document",
+      "notes"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She wrote up the results of the study."
+  },
+  {
+    "phrasal_verb": "write off",
+    "sense": "to accept a loss or debt",
+    "keywords": [
+      "cancel",
+      "debt",
+      "loss",
+      "cancel"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The bank wrote off the unpaid loan."
+  },
+  {
+    "phrasal_verb": "write off",
+    "sense": "to damage a vehicle beyond repair",
+    "keywords": [
+      "destroy",
+      "crash",
+      "wreck",
+      "car"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He wrote off his car in the accident."
+  },
+  {
+    "phrasal_verb": "drop off",
+    "sense": "to take someone or something somewhere",
+    "keywords": [
+      "deliver",
+      "leave",
+      "car",
+      "take"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I'll drop the kids off at school."
+  },
+  {
+    "phrasal_verb": "drop off",
+    "sense": "to fall asleep",
+    "keywords": [
+      "sleep",
+      "doze",
+      "nap",
+      "tired"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "He dropped off in front of the television."
+  },
+  {
+    "phrasal_verb": "drop in",
+    "sense": "to visit someone without warning",
+    "keywords": [
+      "visit",
+      "call",
+      "unexpected",
+      "pass"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "Feel free to drop in any time."
+  },
+  {
+    "phrasal_verb": "drop out",
+    "sense": "to leave school or a course early",
+    "keywords": [
+      "quit",
+      "leave",
+      "school",
+      "university"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She dropped out of college in her second year."
+  },
+  {
+    "phrasal_verb": "drop by",
+    "sense": "to visit someone briefly",
+    "keywords": [
+      "visit",
+      "call",
+      "stop",
+      "pass"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "I'll drop by your office this afternoon."
+  },
+  {
+    "phrasal_verb": "pay back",
+    "sense": "to return borrowed money",
+    "keywords": [
+      "repay",
+      "return",
+      "debt",
+      "loan"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I'll pay you back on Friday."
+  },
+  {
+    "phrasal_verb": "pay off",
+    "sense": "to finish paying a debt",
+    "keywords": [
+      "settle",
+      "debt",
+      "clear",
+      "loan"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "They finally paid off their mortgage."
+  },
+  {
+    "phrasal_verb": "pay off",
+    "sense": "to bring a good result",
+    "keywords": [
+      "succeed",
+      "worthwhile",
+      "reward",
+      "result"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Her hard work paid off in the end."
+  },
+  {
+    "phrasal_verb": "pay for",
+    "sense": "to give money to buy something",
+    "keywords": [
+      "buy",
+      "purchase",
+      "cost",
+      "afford"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Who is paying for the meal?"
+  },
+  {
+    "phrasal_verb": "pay up",
+    "sense": "to pay money that you owe",
+    "keywords": [
+      "owe",
+      "settle",
+      "debt",
+      "reluctantly"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "He finally paid up after several reminders."
+  },
+  {
+    "phrasal_verb": "sign up",
+    "sense": "to join a course or activity",
+    "keywords": [
+      "join",
+      "enrol",
+      "register",
+      "subscribe"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I signed up for a cooking class."
+  },
+  {
+    "phrasal_verb": "sign in",
+    "sense": "to record your arrival or log on",
+    "keywords": [
+      "login",
+      "register",
+      "enter",
+      "arrive"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Please sign in at the front desk."
+  },
+  {
+    "phrasal_verb": "sign out",
+    "sense": "to record your departure or log off",
+    "keywords": [
+      "logout",
+      "leave",
+      "register",
+      "exit"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Remember to sign out when you leave."
+  },
+  {
+    "phrasal_verb": "sign off",
+    "sense": "to end a letter or broadcast",
+    "keywords": [
+      "end",
+      "finish",
+      "letter",
+      "conclude"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She signed off with best wishes."
+  },
+  {
+    "phrasal_verb": "wake up",
+    "sense": "to stop sleeping",
+    "keywords": [
+      "awake",
+      "morning",
+      "sleep",
+      "alarm"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I woke up at six this morning."
+  },
+  {
+    "phrasal_verb": "wake up",
+    "sense": "to start paying attention",
+    "keywords": [
+      "realise",
+      "alert",
+      "notice",
+      "aware"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "It's time you woke up to the danger."
+  },
+  {
+    "phrasal_verb": "wear out",
+    "sense": "to become unusable through use",
+    "keywords": [
+      "damage",
+      "old",
+      "worn",
+      "used"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "My shoes have worn out already."
+  },
+  {
+    "phrasal_verb": "wear out",
+    "sense": "to make someone very tired",
+    "keywords": [
+      "exhaust",
+      "tire",
+      "drain",
+      "fatigue"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The long walk wore me out."
+  },
+  {
+    "phrasal_verb": "wear off",
+    "sense": "to gradually disappear",
+    "keywords": [
+      "fade",
+      "disappear",
+      "effect",
+      "stop"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The painkillers are starting to wear off."
+  },
+  {
+    "phrasal_verb": "wear down",
+    "sense": "to gradually make something smaller or weaker",
+    "keywords": [
+      "erode",
+      "weaken",
+      "reduce",
+      "gradual"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Water wears down the rocks over time."
+  },
+  {
+    "phrasal_verb": "clean up",
+    "sense": "to make a place tidy",
+    "keywords": [
+      "tidy",
+      "wash",
+      "mess",
+      "clear"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please clean up your room."
+  },
+  {
+    "phrasal_verb": "clean out",
+    "sense": "to clean the inside of something",
+    "keywords": [
+      "empty",
+      "tidy",
+      "clear",
+      "cupboard"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "We cleaned out the garage on Sunday."
+  },
+  {
+    "phrasal_verb": "cool down",
+    "sense": "to become less hot",
+    "keywords": [
+      "cold",
+      "chill",
+      "temperature",
+      "lower"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Let the soup cool down before eating."
+  },
+  {
+    "phrasal_verb": "cool down",
+    "sense": "to become calmer",
+    "keywords": [
+      "calm",
+      "relax",
+      "anger",
+      "settle"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Take a walk and cool down."
+  },
+  {
+    "phrasal_verb": "lay off",
+    "sense": "to end someone's employment",
+    "keywords": [
+      "fire",
+      "dismiss",
+      "job",
+      "redundant"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The factory laid off fifty workers."
+  },
+  {
+    "phrasal_verb": "lay out",
+    "sense": "to arrange something in a plan",
+    "keywords": [
+      "arrange",
+      "display",
+      "design",
+      "spread"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She laid out the documents on the table."
+  },
+  {
+    "phrasal_verb": "lay down",
+    "sense": "to establish a rule",
+    "keywords": [
+      "establish",
+      "rule",
+      "set",
+      "impose"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The school lays down strict rules."
+  },
+  {
+    "phrasal_verb": "mix up",
+    "sense": "to confuse one thing with another",
+    "keywords": [
+      "confuse",
+      "mistake",
+      "muddle",
+      "wrong"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I always mix up their names."
+  },
+  {
+    "phrasal_verb": "mix up",
+    "sense": "to combine things together",
+    "keywords": [
+      "blend",
+      "combine",
+      "stir",
+      "ingredients"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Mix up the flour and eggs."
+  },
+  {
+    "phrasal_verb": "get in",
+    "sense": "to arrive at a place",
+    "keywords": [
+      "arrive",
+      "reach",
+      "train",
+      "home"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The train got in twenty minutes late."
+  },
+  {
+    "phrasal_verb": "get in",
+    "sense": "to enter a car or building",
+    "keywords": [
+      "enter",
+      "car",
+      "board",
+      "inside"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Get in the car; we're late."
+  },
+  {
+    "phrasal_verb": "get out",
+    "sense": "to leave a place or vehicle",
+    "keywords": [
+      "leave",
+      "exit",
+      "escape",
+      "car"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She got out of the taxi outside the hotel."
+  },
+  {
+    "phrasal_verb": "get out",
+    "sense": "to become publicly known",
+    "keywords": [
+      "known",
+      "leak",
+      "secret",
+      "spread"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Word got out about the surprise party."
+  },
+  {
+    "phrasal_verb": "get off",
+    "sense": "to leave a bus, train or plane",
+    "keywords": [
+      "leave",
+      "exit",
+      "bus",
+      "station"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I get off at the next stop."
+  },
+  {
+    "phrasal_verb": "get off",
+    "sense": "to avoid serious punishment",
+    "keywords": [
+      "escape",
+      "punishment",
+      "lucky",
+      "fine"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He got off with just a small fine."
+  },
+  {
+    "phrasal_verb": "get down",
+    "sense": "to move to a lower place",
+    "keywords": [
+      "descend",
+      "lower",
+      "climb",
+      "tree"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The cat couldn't get down from the tree."
+  },
+  {
+    "phrasal_verb": "get down",
+    "sense": "to make someone feel sad",
+    "keywords": [
+      "depress",
+      "sad",
+      "upset",
+      "discourage"
+    ],
+    "register": "informal",
+    "separable": true,
+    "example": "The rainy weather really gets me down."
+  },
+  {
+    "phrasal_verb": "get around",
+    "sense": "to travel from place to place",
+    "keywords": [
+      "travel",
+      "move",
+      "transport",
+      "city"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "It's easy to get around Cairo by metro."
+  },
+  {
+    "phrasal_verb": "get around",
+    "sense": "to spread, as news",
+    "keywords": [
+      "spread",
+      "news",
+      "rumour",
+      "circulate"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "News of the closure soon got around."
+  },
+  {
+    "phrasal_verb": "get across",
+    "sense": "to make an idea understood",
+    "keywords": [
+      "communicate",
+      "explain",
+      "convey",
+      "message"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I couldn't get my point across to him."
+  },
+  {
+    "phrasal_verb": "get ahead",
+    "sense": "to become more successful",
+    "keywords": [
+      "succeed",
+      "progress",
+      "career",
+      "advance"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She works hard to get ahead in her career."
+  },
+  {
+    "phrasal_verb": "get behind",
+    "sense": "to fall late with work",
+    "keywords": [
+      "late",
+      "delay",
+      "work",
+      "payments"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I got behind with my homework this week."
+  },
+  {
+    "phrasal_verb": "get together",
+    "sense": "to meet socially",
+    "keywords": [
+      "meet",
+      "gather",
+      "friends",
+      "party"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "Let's get together for lunch on Sunday."
+  },
+  {
+    "phrasal_verb": "get into",
+    "sense": "to enter a place or vehicle",
+    "keywords": [
+      "enter",
+      "car",
+      "board",
+      "inside"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He got into the car and drove off."
+  },
+  {
+    "phrasal_verb": "get into",
+    "sense": "to become interested in something",
+    "keywords": [
+      "interested",
+      "hobby",
+      "enjoy",
+      "start"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "She got into yoga last year."
+  },
+  {
+    "phrasal_verb": "get out of",
+    "sense": "to avoid doing something",
+    "keywords": [
+      "avoid",
+      "escape",
+      "duty",
+      "excuse"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He always tries to get out of washing dishes."
+  },
+  {
+    "phrasal_verb": "get away with",
+    "sense": "to avoid punishment for something",
+    "keywords": [
+      "escape",
+      "punishment",
+      "crime",
+      "cheat"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He cheated and almost got away with it."
+  },
+  {
+    "phrasal_verb": "get down to",
+    "sense": "to start working seriously",
+    "keywords": [
+      "start",
+      "begin",
+      "work",
+      "focus"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Let's get down to business."
+  },
+  {
+    "phrasal_verb": "get round to",
+    "sense": "to finally find time to do",
+    "keywords": [
+      "finally",
+      "eventually",
+      "time",
+      "finish"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I never got round to replying to her email."
+  },
+  {
+    "phrasal_verb": "get at",
+    "sense": "to suggest something indirectly",
+    "keywords": [
+      "imply",
+      "mean",
+      "suggest",
+      "hint"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "What are you getting at?"
+  },
+  {
+    "phrasal_verb": "take in",
+    "sense": "to understand or absorb information",
+    "keywords": [
+      "understand",
+      "absorb",
+      "grasp",
+      "learn"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I couldn't take in everything she said."
+  },
+  {
+    "phrasal_verb": "take in",
+    "sense": "to trick or deceive someone",
+    "keywords": [
+      "trick",
+      "fool",
+      "deceive",
+      "cheat"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "We were completely taken in by his story."
+  },
+  {
+    "phrasal_verb": "take in",
+    "sense": "to give someone a place to stay",
+    "keywords": [
+      "shelter",
+      "house",
+      "stay",
+      "welcome"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "They took in a stray dog."
+  },
+  {
+    "phrasal_verb": "take down",
+    "sense": "to write down what someone says",
+    "keywords": [
+      "write",
+      "record",
+      "note",
+      "notes"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The officer took down my details."
+  },
+  {
+    "phrasal_verb": "take down",
+    "sense": "to remove something from a high place",
+    "keywords": [
+      "remove",
+      "lower",
+      "wall",
+      "dismantle"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He took down the pictures from the wall."
+  },
+  {
+    "phrasal_verb": "take away",
+    "sense": "to remove something from someone",
+    "keywords": [
+      "remove",
+      "confiscate",
+      "deprive",
+      "withdraw"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The teacher took away his phone."
+  },
+  {
+    "phrasal_verb": "take away",
+    "sense": "to subtract one number from another",
+    "keywords": [
+      "subtract",
+      "minus",
+      "deduct",
+      "reduce"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Take three away from ten and you get seven."
+  },
+  {
+    "phrasal_verb": "take to",
+    "sense": "to start liking someone or something",
+    "keywords": [
+      "like",
+      "enjoy",
+      "fond",
+      "friendly"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The children took to their new teacher at once."
+  },
+  {
+    "phrasal_verb": "take to",
+    "sense": "to start doing something regularly",
+    "keywords": [
+      "begin",
+      "habit",
+      "regular",
+      "routine"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He took to jogging every morning."
+  },
+  {
+    "phrasal_verb": "take for",
+    "sense": "to wrongly believe someone is something",
+    "keywords": [
+      "mistake",
+      "assume",
+      "confuse",
+      "think"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "I took him for a teacher."
+  },
+  {
+    "phrasal_verb": "take aback",
+    "sense": "to shock or surprise someone",
+    "keywords": [
+      "shock",
+      "surprise",
+      "startle",
+      "astonish"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Her rude reply took me aback."
+  },
+  {
+    "phrasal_verb": "go for",
+    "sense": "to choose something",
+    "keywords": [
+      "choose",
+      "select",
+      "pick",
+      "prefer"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I'll go for the chicken, please."
+  },
+  {
+    "phrasal_verb": "go for",
+    "sense": "to attack someone",
+    "keywords": [
+      "attack",
+      "hit",
+      "rush",
+      "assault"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The dog suddenly went for the postman."
+  },
+  {
+    "phrasal_verb": "go for",
+    "sense": "to be true for someone",
+    "keywords": [
+      "apply",
+      "true",
+      "same",
+      "valid"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "That goes for all of you."
+  },
+  {
+    "phrasal_verb": "go down",
+    "sense": "to become lower in level",
+    "keywords": [
+      "decrease",
+      "fall",
+      "drop",
+      "reduce"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Prices went down last month."
+  },
+  {
+    "phrasal_verb": "go down",
+    "sense": "to sink below the horizon",
+    "keywords": [
+      "sunset",
+      "sink",
+      "set",
+      "evening"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The sun went down behind the hills."
+  },
+  {
+    "phrasal_verb": "go down",
+    "sense": "to stop working, as a computer",
+    "keywords": [
+      "fail",
+      "crash",
+      "stop",
+      "system"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The server went down this morning."
+  },
+  {
+    "phrasal_verb": "go up",
+    "sense": "to become higher in level",
+    "keywords": [
+      "increase",
+      "rise",
+      "grow",
+      "climb"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Rents have gone up again this year."
+  },
+  {
+    "phrasal_verb": "go away",
+    "sense": "to leave a place",
+    "keywords": [
+      "leave",
+      "depart",
+      "exit",
+      "disappear"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Go away and leave me alone."
+  },
+  {
+    "phrasal_verb": "go away",
+    "sense": "to travel for a holiday",
+    "keywords": [
+      "holiday",
+      "vacation",
+      "trip",
+      "travel"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We're going away for the weekend."
+  },
+  {
+    "phrasal_verb": "go by",
+    "sense": "to pass, as time",
+    "keywords": [
+      "pass",
+      "elapse",
+      "time",
+      "years"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The years went by very quickly."
+  },
+  {
+    "phrasal_verb": "go by",
+    "sense": "to pass a place",
+    "keywords": [
+      "pass",
+      "move",
+      "near",
+      "street"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "A bus went by without stopping."
+  },
+  {
+    "phrasal_verb": "go after",
+    "sense": "to chase or pursue someone",
+    "keywords": [
+      "chase",
+      "pursue",
+      "follow",
+      "hunt"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The police went after the thief."
+  },
+  {
+    "phrasal_verb": "go after",
+    "sense": "to try hard to get something",
+    "keywords": [
+      "pursue",
+      "seek",
+      "target",
+      "chase"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She went after the job she wanted."
+  },
+  {
+    "phrasal_verb": "go without",
+    "sense": "to manage without something needed",
+    "keywords": [
+      "lack",
+      "manage",
+      "lacking",
+      "survive"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "They often went without food."
+  },
+  {
+    "phrasal_verb": "go with",
+    "sense": "to match or suit something",
+    "keywords": [
+      "match",
+      "suit",
+      "fit",
+      "complement"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Red wine goes well with steak."
+  },
+  {
+    "phrasal_verb": "go against",
+    "sense": "to oppose or disobey something",
+    "keywords": [
+      "oppose",
+      "disobey",
+      "resist",
+      "contradict"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He went against his parents' wishes."
+  },
+  {
+    "phrasal_verb": "go along with",
+    "sense": "to agree with an idea or plan",
+    "keywords": [
+      "agree",
+      "accept",
+      "support",
+      "follow"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I'll go along with your suggestion."
+  },
+  {
+    "phrasal_verb": "go about",
+    "sense": "to begin dealing with a task",
+    "keywords": [
+      "approach",
+      "tackle",
+      "begin",
+      "handle"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "How should we go about this problem?"
+  },
+  {
+    "phrasal_verb": "go into",
+    "sense": "to discuss something in detail",
+    "keywords": [
+      "discuss",
+      "explain",
+      "detail",
+      "explore"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I won't go into the details now."
+  },
+  {
+    "phrasal_verb": "go into",
+    "sense": "to start a profession",
+    "keywords": [
+      "career",
+      "join",
+      "profession",
+      "begin"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She wants to go into medicine."
+  },
+  {
+    "phrasal_verb": "go under",
+    "sense": "to fail financially, as a business",
+    "keywords": [
+      "fail",
+      "bankrupt",
+      "collapse",
+      "business"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Many small shops went under last year."
+  },
+  {
+    "phrasal_verb": "go around",
+    "sense": "to spread among people",
+    "keywords": [
+      "spread",
+      "circulate",
+      "news",
+      "rumour"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "There's a nasty flu going around."
+  },
+  {
+    "phrasal_verb": "turn away",
+    "sense": "to refuse to let someone enter",
+    "keywords": [
+      "refuse",
+      "reject",
+      "deny",
+      "entry"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The club turned away several guests."
+  },
+  {
+    "phrasal_verb": "turn away",
+    "sense": "to look in another direction",
+    "keywords": [
+      "face",
+      "look",
+      "avert",
+      "direction"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She turned away to hide her tears."
+  },
+  {
+    "phrasal_verb": "turn back",
+    "sense": "to return the way you came",
+    "keywords": [
+      "return",
+      "reverse",
+      "retreat",
+      "journey"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Bad weather forced us to turn back."
+  },
+  {
+    "phrasal_verb": "turn over",
+    "sense": "to move so the other side shows",
+    "keywords": [
+      "flip",
+      "reverse",
+      "roll",
+      "page"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Turn over the page and continue."
+  },
+  {
+    "phrasal_verb": "turn over",
+    "sense": "to hand something to authorities",
+    "keywords": [
+      "surrender",
+      "deliver",
+      "police",
+      "give"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He turned the stolen money over to the police."
+  },
+  {
+    "phrasal_verb": "turn in",
+    "sense": "to go to bed",
+    "keywords": [
+      "sleep",
+      "bed",
+      "tired",
+      "night"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "I think I'll turn in early tonight."
+  },
+  {
+    "phrasal_verb": "turn in",
+    "sense": "to give something to an authority",
+    "keywords": [
+      "submit",
+      "hand",
+      "deliver",
+      "police"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She turned in her wallet to the police."
+  },
+  {
+    "phrasal_verb": "turn to",
+    "sense": "to ask someone for help",
+    "keywords": [
+      "ask",
+      "seek",
+      "help",
+      "rely"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Who can you turn to for advice?"
+  },
+  {
+    "phrasal_verb": "turn against",
+    "sense": "to become hostile towards someone",
+    "keywords": [
+      "hostile",
+      "oppose",
+      "betray",
+      "enemy"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "His friends turned against him."
+  },
+  {
+    "phrasal_verb": "turn round",
+    "sense": "to change to face the opposite way",
+    "keywords": [
+      "rotate",
+      "reverse",
+      "face",
+      "direction"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He turned round when I called his name."
+  },
+  {
+    "phrasal_verb": "give up on",
+    "sense": "to stop believing in someone or something",
+    "keywords": [
+      "abandon",
+      "hope",
+      "trust",
+      "quit"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Don't give up on your dreams."
+  },
+  {
+    "phrasal_verb": "fall apart",
+    "sense": "to break into small pieces",
+    "keywords": [
+      "break",
+      "collapse",
+      "disintegrate",
+      "shatter"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The old book fell apart in my hands."
+  },
+  {
+    "phrasal_verb": "fall out",
+    "sense": "to argue and stop being friendly",
+    "keywords": [
+      "argue",
+      "disagree",
+      "quarrel",
+      "fight"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "They fell out over a silly argument."
+  },
+  {
+    "phrasal_verb": "fall for",
+    "sense": "to be tricked by a lie",
+    "keywords": [
+      "tricked",
+      "deceived",
+      "fooled",
+      "scammed"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "I fell for the trick completely."
+  },
+  {
+    "phrasal_verb": "fall behind",
+    "sense": "to fail to keep up",
+    "keywords": [
+      "late",
+      "delay",
+      "lag",
+      "slow"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He fell behind on his rent payments."
+  },
+  {
+    "phrasal_verb": "fall through",
+    "sense": "to fail to happen",
+    "keywords": [
+      "fail",
+      "collapse",
+      "cancel",
+      "flop"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Our holiday plans fell through."
+  },
+  {
+    "phrasal_verb": "pull off",
+    "sense": "to succeed in something difficult",
+    "keywords": [
+      "succeed",
+      "achieve",
+      "manage",
+      "accomplish"
+    ],
+    "register": "informal",
+    "separable": true,
+    "example": "They pulled off a surprising victory."
+  },
+  {
+    "phrasal_verb": "pull over",
+    "sense": "to move a vehicle roadside",
+    "keywords": [
+      "park",
+      "stop",
+      "roadside",
+      "side"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The police officer told him to pull over."
+  },
+  {
+    "phrasal_verb": "pull through",
+    "sense": "to survive a serious illness",
+    "keywords": [
+      "survive",
+      "recover",
+      "heal",
+      "endure"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The doctor expects her to pull through."
+  },
+  {
+    "phrasal_verb": "pull out",
+    "sense": "to withdraw from an agreement",
+    "keywords": [
+      "withdraw",
+      "cancel",
+      "leave",
+      "quit"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The investor pulled out of the deal."
+  },
+  {
+    "phrasal_verb": "pull down",
+    "sense": "to demolish a building",
+    "keywords": [
+      "demolish",
+      "destroy",
+      "knock",
+      "dismantle"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "They pulled down the old factory."
+  },
+  {
+    "phrasal_verb": "stand out",
+    "sense": "to be easily noticeable",
+    "keywords": [
+      "noticeable",
+      "prominent",
+      "conspicuous",
+      "distinguish"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Her bright red dress made her stand out."
+  },
+  {
+    "phrasal_verb": "stand for",
+    "sense": "to represent or mean something",
+    "keywords": [
+      "represent",
+      "mean",
+      "symbolize",
+      "signify"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "What does the acronym stand for?"
+  },
+  {
+    "phrasal_verb": "stand for",
+    "sense": "to tolerate bad behavior",
+    "keywords": [
+      "tolerate",
+      "bear",
+      "accept",
+      "endure"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I will not stand for such rudeness."
+  },
+  {
+    "phrasal_verb": "stand by",
+    "sense": "to support someone in difficulty",
+    "keywords": [
+      "support",
+      "help",
+      "back",
+      "loyalty"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She stood by her husband during the crisis."
+  },
+  {
+    "phrasal_verb": "stand in",
+    "sense": "to substitute for someone temporarily",
+    "keywords": [
+      "substitute",
+      "replace",
+      "cover",
+      "deputize"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Can you stand in for me today?"
+  },
+  {
+    "phrasal_verb": "check in",
+    "sense": "to register at a hotel",
+    "keywords": [
+      "register",
+      "arrive",
+      "hotel",
+      "airport"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We checked in at the hotel reception."
+  },
+  {
+    "phrasal_verb": "check out",
+    "sense": "to leave a hotel after paying",
+    "keywords": [
+      "leave",
+      "depart",
+      "hotel",
+      "pay"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Guests must check out by noon."
+  },
+  {
+    "phrasal_verb": "check out",
+    "sense": "to examine something interesting",
+    "keywords": [
+      "examine",
+      "inspect",
+      "view",
+      "look"
+    ],
+    "register": "informal",
+    "separable": true,
+    "example": "Check out this amazing new application."
+  },
+  {
+    "phrasal_verb": "check up on",
+    "sense": "to investigate someone's condition",
+    "keywords": [
+      "inspect",
+      "monitor",
+      "verify",
+      "examine"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I called to check up on my friend."
+  },
+  {
+    "phrasal_verb": "throw away",
+    "sense": "to get rid of rubbish",
+    "keywords": [
+      "discard",
+      "trash",
+      "dump",
+      "dispose"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Don't throw away those old newspapers."
+  },
+  {
+    "phrasal_verb": "throw up",
+    "sense": "to vomit food",
+    "keywords": [
+      "vomit",
+      "sick",
+      "puke",
+      "nausea"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "The baby threw up after eating."
+  },
+  {
+    "phrasal_verb": "throw out",
+    "sense": "to force someone to leave",
+    "keywords": [
+      "expel",
+      "eject",
+      "dismiss",
+      "remove"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Security threw him out of the club."
+  },
+  {
+    "phrasal_verb": "show up",
+    "sense": "to arrive at a place",
+    "keywords": [
+      "arrive",
+      "attend",
+      "appear",
+      "reach"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He showed up late for the interview."
+  },
+  {
+    "phrasal_verb": "show off",
+    "sense": "to boast to impress people",
+    "keywords": [
+      "boast",
+      "brag",
+      "impress",
+      "display"
+    ],
+    "register": "informal",
+    "separable": false,
+    "example": "He bought a sports car to show off."
+  },
+  {
+    "phrasal_verb": "look back",
+    "sense": "to think about the past",
+    "keywords": [
+      "reflect",
+      "remember",
+      "recollect",
+      "past"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "When I look back, I have no regrets."
+  },
+  {
+    "phrasal_verb": "look around",
+    "sense": "to visit and explore a place",
+    "keywords": [
+      "explore",
+      "tour",
+      "visit",
+      "inspect"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We spent the day looking around the city."
+  },
+  {
+    "phrasal_verb": "look through",
+    "sense": "to read something quickly",
+    "keywords": [
+      "read",
+      "browse",
+      "scan",
+      "examine"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I looked through the newspaper during breakfast."
+  },
+  {
+    "phrasal_verb": "put in",
+    "sense": "to install equipment",
+    "keywords": [
+      "install",
+      "submit",
+      "insert",
+      "fit"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "They put in a new air conditioner yesterday."
+  },
+  {
+    "phrasal_verb": "put across",
+    "sense": "to communicate an idea clearly",
+    "keywords": [
+      "communicate",
+      "explain",
+      "convey",
+      "express"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He put his ideas across very clearly."
+  },
+  {
+    "phrasal_verb": "put up",
+    "sense": "to provide temporary accommodation",
+    "keywords": [
+      "host",
+      "accommodate",
+      "lodge",
+      "shelter"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "We can put you up for the night."
+  },
+  {
+    "phrasal_verb": "put through",
+    "sense": "to connect someone by phone",
+    "keywords": [
+      "connect",
+      "phone",
+      "transfer",
+      "line"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please hold while I put you through."
+  },
+  {
+    "phrasal_verb": "come by",
+    "sense": "to obtain something difficult",
+    "keywords": [
+      "obtain",
+      "get",
+      "acquire",
+      "find"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Good jobs are hard to come by."
+  },
+  {
+    "phrasal_verb": "come round",
+    "sense": "to regain consciousness",
+    "keywords": [
+      "recover",
+      "wake",
+      "revive",
+      "conscious"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She came round a few minutes after fainting."
+  },
+  {
+    "phrasal_verb": "come through",
+    "sense": "to survive a difficult situation",
+    "keywords": [
+      "survive",
+      "endure",
+      "succeed",
+      "overcome"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The company came through the crisis successfully."
+  },
+  {
+    "phrasal_verb": "make over",
+    "sense": "to transform someone or something",
+    "keywords": [
+      "transform",
+      "renovate",
+      "redesign",
+      "alter"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "They made over the old apartment completely."
+  },
+  {
+    "phrasal_verb": "make into",
+    "sense": "to change into something else",
+    "keywords": [
+      "convert",
+      "transform",
+      "change",
+      "turn"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "We made the spare room into an office."
+  },
+  {
+    "phrasal_verb": "set about",
+    "sense": "to start doing something enthusiastically",
+    "keywords": [
+      "start",
+      "begin",
+      "tackle",
+      "commence"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She set about cleaning the entire house."
+  },
+  {
+    "phrasal_verb": "set down",
+    "sense": "to write official rules",
+    "keywords": [
+      "record",
+      "write",
+      "establish",
+      "state"
+    ],
+    "register": "formal",
+    "separable": true,
+    "example": "The committee set down strict guidelines."
+  },
+  {
+    "phrasal_verb": "pick at",
+    "sense": "to eat small amounts without appetite",
+    "keywords": [
+      "nibble",
+      "peck",
+      "eat",
+      "small"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She just picked at her food."
+  },
+  {
+    "phrasal_verb": "break into",
+    "sense": "to enter a building by force",
+    "keywords": [
+      "enter",
+      "burglarize",
+      "force",
+      "steal"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Someone tried to break into the car."
+  },
+  {
+    "phrasal_verb": "break away",
+    "sense": "to escape from control",
+    "keywords": [
+      "escape",
+      "separate",
+      "flee",
+      "detach"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The runner broke away from the group."
+  },
+  {
+    "phrasal_verb": "bring along",
+    "sense": "to take someone with you",
+    "keywords": [
+      "take",
+      "carry",
+      "escort",
+      "invite"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Can I bring my friend along?"
+  },
+  {
+    "phrasal_verb": "bring off",
+    "sense": "to succeed in something difficult",
+    "keywords": [
+      "succeed",
+      "achieve",
+      "accomplish",
+      "manage"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She brought off a difficult business deal."
+  },
+  {
+    "phrasal_verb": "call in",
+    "sense": "to request specialized help",
+    "keywords": [
+      "summon",
+      "invite",
+      "request",
+      "consult"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "We had to call in an expert."
+  },
+  {
+    "phrasal_verb": "grow up",
+    "sense": "to develop into an adult",
+    "keywords": [
+      "mature",
+      "develop",
+      "adult",
+      "child"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She grew up in a small town."
+  },
+  {
+    "phrasal_verb": "grow out of",
+    "sense": "to become too big for clothes",
+    "keywords": [
+      "outgrow",
+      "abandon",
+      "leave",
+      "mature"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "He grew out of his childhood clothes."
+  },
+  {
+    "phrasal_verb": "catch up",
+    "sense": "to reach the same level",
+    "keywords": [
+      "reach",
+      "overtake",
+      "match",
+      "level"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "I need to study to catch up."
+  },
+  {
+    "phrasal_verb": "catch on",
+    "sense": "to become popular",
+    "keywords": [
+      "understand",
+      "popular",
+      "grasp",
+      "trend"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "The fashion trend caught on quickly."
+  },
+  {
+    "phrasal_verb": "end up",
+    "sense": "to finally reach a situation",
+    "keywords": [
+      "finish",
+      "result",
+      "become",
+      "wind"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "We got lost and ended up here."
+  },
+  {
+    "phrasal_verb": "pass away",
+    "sense": "to die peacefully",
+    "keywords": [
+      "die",
+      "expire",
+      "perish",
+      "decease"
+    ],
+    "register": "formal",
+    "separable": false,
+    "example": "His grandfather passed away yesterday."
+  },
+  {
+    "phrasal_verb": "pass out",
+    "sense": "to become unconscious",
+    "keywords": [
+      "faint",
+      "collapse",
+      "blackout",
+      "unconscious"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "She passed out from the heat."
+  },
+  {
+    "phrasal_verb": "try on",
+    "sense": "to test clothes for fit",
+    "keywords": [
+      "fit",
+      "test",
+      "wear",
+      "clothes"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "She tried on three dresses."
+  },
+  {
+    "phrasal_verb": "try out",
+    "sense": "to test something new",
+    "keywords": [
+      "test",
+      "experiment",
+      "sample",
+      "evaluate"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "We are trying out new software."
+  },
+  {
+    "phrasal_verb": "point out",
+    "sense": "to direct attention to information",
+    "keywords": [
+      "indicate",
+      "explain",
+      "highlight",
+      "show"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "He pointed out my mistakes."
+  },
+  {
+    "phrasal_verb": "shut down",
+    "sense": "to stop operating a machine",
+    "keywords": [
+      "close",
+      "stop",
+      "turn",
+      "deactivate"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please shut down your computer."
+  },
+  {
+    "phrasal_verb": "cheer up",
+    "sense": "to make someone feel happier",
+    "keywords": [
+      "encourage",
+      "gladden",
+      "comfort",
+      "brighten"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "We brought flowers to cheer her up."
+  },
+  {
+    "phrasal_verb": "speed up",
+    "sense": "to move faster",
+    "keywords": [
+      "accelerate",
+      "hasten",
+      "quicken",
+      "fast"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "You need to speed up."
+  },
+  {
+    "phrasal_verb": "slow down",
+    "sense": "to reduce speed",
+    "keywords": [
+      "decelerate",
+      "reduce",
+      "delay",
+      "ease"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "Please slow down on icy roads."
+  },
+  {
+    "phrasal_verb": "watch out",
+    "sense": "to be careful of danger",
+    "keywords": [
+      "beware",
+      "caution",
+      "careful",
+      "mind"
+    ],
+    "register": "neutral",
+    "separable": false,
+    "example": "Watch out for icy patches."
+  },
+  {
+    "phrasal_verb": "blow up",
+    "sense": "to explode with explosives",
+    "keywords": [
+      "explode",
+      "detonate",
+      "shatter",
+      "burst"
+    ],
+    "register": "neutral",
+    "separable": true,
+    "example": "The building blew up."
+  }
+]
